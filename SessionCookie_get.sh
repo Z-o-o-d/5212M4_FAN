@@ -1,14 +1,22 @@
 
+# -k是ssl不安全用的，参考
+# https://blog.csdn.net/lixuande19871015/article/details/101206642
+
+# 旧IPMI用http
+# 新IPMI用http
+# 版本分界不知道
+# 可能只是个人水平有限
 
 
-curl -k 'https://ipmi_ip/rpc/WEBSES/create.asp'                         
+
+curl -k 'https://<你的IPMI地址>/rpc/WEBSES/create.asp'                         
 -H 'Accept: application/json, text/plain, */*' \
 -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8' \
 -H 'Connection: keep-alive' \
 -H 'Content-Type: application/json;charset=UTF-8' \
--H 'Cookie: BMC_IP_ADDR=ipmi_ip; test=1' \
--H 'Origin: https://ipmi_ip' \
--H 'Referer: https://<ipmi_ip>/index.html' \
+-H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1' \
+-H 'Origin: https://<你的IPMI地址>' \
+-H 'Referer: https://<你的IPMI地址>/index.html' \
 -H 'Sec-Fetch-Dest: empty' \
 -H 'Sec-Fetch-Mode: cors' \
 -H 'Sec-Fetch-Site: same-origin' \
@@ -21,11 +29,3 @@ curl -k 'https://ipmi_ip/rpc/WEBSES/create.asp'
 --insecure ;
 
 
-
--k是ssl不安全用的，参考
-https://blog.csdn.net/lixuande19871015/article/details/101206642
-
-旧IPMI用http
-新IPMI用http
-版本分界不知道
-可能只是个人水平有限

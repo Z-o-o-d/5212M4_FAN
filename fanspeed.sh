@@ -1,10 +1,10 @@
 
 
-设置转速
+# 设置转速
 
 
 
-最少参数
+# 最少参数
 
 curl 'https://<你的IPMI地址>/rpc/setfanspeed.asp' \
   -H 'Content-Type: application/json;charset=UTF-8' \
@@ -17,7 +17,7 @@ curl 'https://<你的IPMI地址>/rpc/setfanspeed.asp' \
 
 
 
-源参数
+# 源参数
 
 curl 'https://<你的IPMI地址>/rpc/setfanmode.asp' \
   -H 'Accept: */*' \
@@ -41,8 +41,8 @@ curl 'https://<你的IPMI地址>/rpc/setfanmode.asp' \
   --insecure
 
 
--H 'X-CSRFTOKEN: rpSuZkk8sX' 是一个 cURL 命令中的请求头部分。它指定了一个名为 "X-CSRFTOKEN" 的自定义请求头，并设置其值为 "rpSuZkk8sX"。
+# -H 'X-CSRFTOKEN: rpSuZkk8sX' 是一个 cURL 命令中的请求头部分。它指定了一个名为 "X-CSRFTOKEN" 的自定义请求头，并设置其值为 "rpSuZkk8sX"。
 
-在 HTTP 请求中，请求头部分包含了客户端向服务器发送的各种信息和设置。这里的 "X-CSRFTOKEN" 请求头通常用于防止跨站请求伪造（CSRF）攻击。服务器可以使用该令牌来验证请求的合法性，以确保请求来自于预期的来源。
+# 在 HTTP 请求中，请求头部分包含了客户端向服务器发送的各种信息和设置。这里的 "X-CSRFTOKEN" 请求头通常用于防止跨站请求伪造（CSRF）攻击。服务器可以使用该令牌来验证请求的合法性，以确保请求来自于预期的来源。
 
-在 cURL 命令中使用 -H 选项，后面跟着一个请求头的名称和值，即可添加该请求头到 HTTP 请求中。这里的命令表示在请求中包含了一个名为 "X-CSRFTOKEN" 的请求头，并将其值设置为 "rpSuZkk8sX"。
+# 在 cURL 命令中使用 -H 选项，后面跟着一个请求头的名称和值，即可添加该请求头到 HTTP 请求中。这里的命令表示在请求中包含了一个名为 "X-CSRFTOKEN" 的请求头，并将其值设置为 "rpSuZkk8sX"。

@@ -1,3 +1,6 @@
+# 此方法已废弃，可用于控制ubuntu，控不了ipmi
+
+
 import paramiko
 import time
 # SSH连接的信息

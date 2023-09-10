@@ -54,7 +54,7 @@ curl "https://$IP_ADDRESS/rpc/setfanspeed.asp" \
 -H \$'Cookie: SessionCookie=$SESSION_COOKIE; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
 -H 'X-CSRFTOKEN: $CSRFTOKEN' \
 -H 'X-Requested-With: XMLHttpRequest' \
---data-raw 'ID=2&PERCENT=20' \
+--data-raw 'ID=2&PERCENT=18' \
 --compressed \
 --insecure
 
@@ -76,7 +76,7 @@ curl "https://$IP_ADDRESS/rpc/setfanspeed.asp" \
 -H \$'Cookie: SessionCookie=$SESSION_COOKIE; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
 -H 'X-CSRFTOKEN: $CSRFTOKEN' \
 -H 'X-Requested-With: XMLHttpRequest' \
---data-raw 'ID=6&PERCENT=20' \
+--data-raw 'ID=6&PERCENT=18' \
 --compressed \
 --insecure
 

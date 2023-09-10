@@ -11,7 +11,7 @@ response=$(curl -k "https://$IP_ADDRESS/rpc/WEBSES/create.asp" \
 -H 'Sec-Fetch-Dest: empty' \
 -H 'Sec-Fetch-Mode: cors' \
 -H 'Sec-Fetch-Site: same-origin' \
---data-raw 'WEBVAR_USERNAME=Asd123&WEBVAR_PASSWORD=Asd123$%25%5E' \
+--data-raw 'WEBVAR_USERNAME=<你的账号>&WEBVAR_PASSWORD=<你的密码>' \
 --compressed \
 --insecure)
 

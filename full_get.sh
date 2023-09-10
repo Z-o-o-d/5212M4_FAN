@@ -80,7 +80,7 @@ curl 'https://<你的IPMI地址>/rpc/WEBSES/create.asp' \
   -H 'sec-ch-ua: "Chromium";v="116", "Not)A;Brand";v="24", "Microsoft Edge";v="116"' \
   -H 'sec-ch-ua-mobile: ?0' \
   -H 'sec-ch-ua-platform: "Windows"' \
-  --data-raw 'WEBVAR_USERNAME=Asd123&WEBVAR_PASSWORD=Asd123$%25%5E' \
+  --data-raw 'WEBVAR_USERNAME=ahrhahrregha&WEBVAR_PASSWORD=ahrhahrahareha' \
   --compressed \
   --insecure ;
 curl 'https://<你的IPMI地址>/css/bootstrap.css' \
@@ -5443,7 +5443,7 @@ curl 'https://<你的IPMI地址>/img/power_control.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5458,7 +5458,7 @@ curl 'https://<你的IPMI地址>/img/remote_control.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5473,7 +5473,7 @@ curl 'https://<你的IPMI地址>/img/user.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5488,7 +5488,7 @@ curl 'https://<你的IPMI地址>/img/network.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5503,7 +5503,7 @@ curl 'https://<你的IPMI地址>/img/sensor.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5518,7 +5518,7 @@ curl 'https://<你的IPMI地址>/img/fw_update.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5533,7 +5533,7 @@ curl 'https://<你的IPMI地址>/img/status-absent.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5548,7 +5548,7 @@ curl 'https://<你的IPMI地址>/img/status-ok.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5563,7 +5563,7 @@ curl 'https://<你的IPMI地址>/img/status-warning.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5578,7 +5578,7 @@ curl 'https://<你的IPMI地址>/img/status-critical.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5593,7 +5593,7 @@ curl 'https://<你的IPMI地址>/img/status-on.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5608,7 +5608,7 @@ curl 'https://<你的IPMI地址>/img/status-unspupport.png' \
   -H 'Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: image' \
   -H 'Sec-Fetch-Mode: no-cors' \
@@ -5623,7 +5623,7 @@ curl 'https://<你的IPMI地址>/rpc/getlanchannelinfo.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5640,7 +5640,7 @@ curl 'https://<你的IPMI地址>/rpc/WEBSES/validate.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5657,7 +5657,7 @@ curl 'https://<你的IPMI地址>/partials/powerAndFanNew.html' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4' \
+  -H 'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5674,7 +5674,7 @@ curl 'https://<你的IPMI地址>/rpc/getfanmode.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5691,7 +5691,7 @@ curl 'https://<你的IPMI地址>/rpc/getfaninfo.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5708,7 +5708,7 @@ curl 'https://<你的IPMI地址>/rpc/hoststatus.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5726,7 +5726,7 @@ curl 'https://<你的IPMI地址>/rpc/setfanspeed.asp' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/json;charset=UTF-8' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Origin: https://<你的IPMI地址>' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
@@ -5745,7 +5745,7 @@ curl 'https://<你的IPMI地址>/rpc/getfaninfo.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5762,7 +5762,7 @@ curl 'https://<你的IPMI地址>/rpc/hoststatus.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5780,7 +5780,7 @@ curl 'https://<你的IPMI地址>/rpc/setfanmode.asp' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/json;charset=UTF-8' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Origin: https://<你的IPMI地址>' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
@@ -5799,7 +5799,7 @@ curl 'https://<你的IPMI地址>/rpc/getfaninfo.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5816,7 +5816,7 @@ curl 'https://<你的IPMI地址>/rpc/hoststatus.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5833,7 +5833,7 @@ curl 'https://<你的IPMI地址>/rpc/getfanmode.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5851,7 +5851,7 @@ curl 'https://<你的IPMI地址>/rpc/setfanmode.asp' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/json;charset=UTF-8' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Origin: https://<你的IPMI地址>' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
@@ -5870,7 +5870,7 @@ curl 'https://<你的IPMI地址>/rpc/getfanmode.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5888,7 +5888,7 @@ curl 'https://<你的IPMI地址>/rpc/setfanspeed.asp' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/json;charset=UTF-8' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Origin: https://<你的IPMI地址>' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
@@ -5910,7 +5910,7 @@ curl 'https://<你的IPMI地址>/rpc/getfaninfo.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
@@ -5930,7 +5930,7 @@ curl 'https://<你的IPMI地址>/rpc/hoststatus.asp' \
   -H 'Accept: */*' \
   -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
   -H 'Connection: keep-alive' \
-  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=Asd123; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
+  -H $'Cookie: BMC_IP_ADDR=<你的IPMI地址>; test=1; SessionCookie=arhrhahebfabrharbgnbafhbrahnrthhnra; SessionExpired=false; Username=ahrhahrahareharegha; PNO=4; gMultiLAN=true; settings={eth:[0,1],ethstr:[\'eth0\',\'eth1\'],lan:[8,1],enable:[0,1],flag:[0,0]}' \
   -H 'Referer: https://<你的IPMI地址>/main.html' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
